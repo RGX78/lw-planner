@@ -12,6 +12,7 @@ Interaktywny planer zestawów z **Leatherworkingu** dla WoW: Forever — najleps
 - Uwzględnia **limit skilla LW na level**: 1–9 → 75, 10–19 → 150, 20–34 → 225, 35+ → 300.
 - Badge **BoP/BoE**, wymagany level itemu i wymagany skill craftu.
 - Tabela „wszystkie itemy" z wyszukiwarką (456 pozycji) i ikonami.
+- Zakładka **Enchanty**: 162 enchanty (chest, gloves, bracers, boots, cloak, necklace, weapon, 2H) z efektem, wymaganym skillem i źródłem (trener/wzór); ★ = wybór dla huntera (agi/int).
 
 ## Dane
 - Receptury i skille: [sktools.gg](https://sktools.gg/forever/professions/leatherworking) — build **1.60.1.70630**.
