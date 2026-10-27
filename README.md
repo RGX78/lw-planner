@@ -12,6 +12,7 @@ Interaktywny planer zestawów z **Leatherworkingu** dla WoW: Forever — najleps
 - Uwzględnia **limit skilla LW na level**: 1–9 → 75, 10–19 → 150, 20–34 → 225, 35+ → 300.
 - Badge **BoP/BoE**, wymagany level itemu i wymagany skill craftu.
 - Tabela „wszystkie itemy" z wyszukiwarką (456 pozycji) i ikonami.
+- Zakładka **Buffy**: 43 consumable'y z agility/intellect (13 elixirów + 30 dań z gotowania) — efekt, czas trwania, wymagany level; filtr Wszystkie/Agi/Int/Elixiry/Jedzenie. Uwaga: elixir i jedzenie działają równolegle (1 battle + 1 guardian + 1 food).
 - Zakładka **Enchanty**: 162 enchanty (chest, gloves, bracers, boots, cloak, necklace, weapon, 2H) z efektem, wymaganym skillem i źródłem (trener/wzór); ★ = wybór dla huntera (agi/int).
 
 ## Dane
